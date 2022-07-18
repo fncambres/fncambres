@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Federico</h1>
-<h3 align="center">I'm from Argentina and I perform my task as SysAdmin</h3>
+<h3 align="center">I am from Argentina and I work as SysAdmin</h3>
 
 - 💻 I’m currently working on **insurance company.**
 
