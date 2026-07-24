@@ -1,87 +1,79 @@
-```md
-<h1 align="center">Hi 👋, I'm Federico Cambres</h1>
+<div align="center">
 
-<h3 align="center">
+# Hi 👋 I'm Federico Cambres
+
+### Cloud & DevOps Engineer
+
 Cloud & DevOps Engineer from Argentina 🇦🇷
-</h3>
 
-- ☁️ AWS Certified Solutions Architect – Associate
-- 💻 Working as Cloud & DevOps Engineer in the insurance industry
-- 🐧 Passionate about Linux, Cloud Infrastructure and Automation
-- 🚀 Currently improving my skills in Platform Engineering, GitOps and Infrastructure as Code
-- 💬 Ask me about **AWS, Linux, Bash, GitLab CI/CD, Kubernetes and OpenShift**
-- 📫 Reach me at **fncambres@gmail.com**
+AWS Certified Solutions Architect – Associate
+
+</div>
 
 ---
 
-<h3 align="left">Connect with me</h3>
+## 👨‍💻 About Me
 
-<p align="left">
-<a href="https://linkedin.com/in/fncambres" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-</a>
-</p>
+- ☁️ Cloud & DevOps Engineer with a SysAdmin background
+- 🐧 Passionate about Linux, AWS and Automation
+- 🚀 Working with AWS, OpenShift, Kubernetes and GitLab CI/CD
+- 🌱 Currently learning Platform Engineering, GitOps and Infrastructure as Code
+- 💬 Ask me about **AWS, Linux, Bash, Kubernetes and DevOps**
+- 📫 **fncambres@gmail.com**
 
 ---
 
-<h3 align="left">AWS Certifications</h3>
+## 🏆 AWS Certifications
 
 - ✅ AWS Certified Cloud Practitioner
 - ✅ AWS Certified Solutions Architect – Associate
 
 ---
 
-<h3 align="left">Languages & Tools</h3>
+## 🛠 Technologies
 
-<p align="left">
+### Cloud
 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-</a>
+- AWS
+- IAM
+- EC2
+- VPC
+- S3
+- Route 53
 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-</a>
+### Containers
 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
-</a>
+- Docker
+- Kubernetes
+- OpenShift
+- Podman
 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-</a>
+### DevOps
 
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
-</a>
+- GitLab CI/CD
+- Jenkins
+- Git
+- Bash
 
-<a href="https://docs.openshift.com" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/openshift/openshift-ar21.svg" width="80" height="40"/>
-</a>
+### Linux
 
-<a href="https://about.gitlab.com" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-tile.svg" width="40" height="40"/>
-</a>
+- Red Hat Enterprise Linux
+- Oracle Linux
+- Ubuntu
 
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
-</a>
+### Monitoring
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</a>
+- Grafana
+- Elastic Stack
+- Kibana
 
-<a href="https://grafana.com" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
-</a>
+### Databases
 
-<a href="https://www.elastic.co/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" height="40"/>
-</a>
+- MySQL
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</a>
+---
 
-</p>
-```
+## 📫 Connect
+
+- 💼 LinkedIn: https://linkedin.com/in/fncambres
+- 📧 Email: fncambres@gmail.com
